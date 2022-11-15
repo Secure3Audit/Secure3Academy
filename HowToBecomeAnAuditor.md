@@ -92,8 +92,6 @@ CTFs (Capture The Flags) are programing challenges where pre-designed security v
 By now you should be quite familiar with the smart contract security best pratices, theory behind the exploits and commonly used tools, you should try finding issues in real project and code to pratice your skills.
 [Secure3](https://secure3.io/) provides the project for you to audit and learn from other auditors. Signup and become an auditor today and pratice your skills on [Secure3](https://secure3.io/). Here are some sample audit reports from Secure3 for you to take a look on what real audit report looks like.
 
-- https://github.com/Secure3Audit/ClearDAO_Audit/tree/main/audit_report
-- https://github.com/Secure3Audit/P12_Competitive_Audit/tree/main/audit_report
-- https://github.com/Secure3Audit/Shield_SSVault_CA/tree/main/audit_report
+https://github.com/Secure3Audit/Secure3Academy/blob/main/README.md#audit-contests
 
 Secure3 aims to secure Web3 by empowering a transparent, collaborative and verifiable security ecosystem. 
