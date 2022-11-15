@@ -1,4 +1,4 @@
-# Secure3Academy
+# Secure3 Academy Home Page
 
 ## Learn
 - :man_student: [How to become an auditor](https://github.com/Secure3Audit/Secure3Academy/blob/main/HowToBecomeAnAuditor.md)
