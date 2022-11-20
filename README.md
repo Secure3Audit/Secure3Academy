@@ -10,6 +10,7 @@
 - :video_game: Epic League [audit report](https://github.com/Secure3Audit/Epic_League_Audit_Contest/tree/main/audit_report)
 - :moneybag: Shield SS-Vault [audit report](https://github.com/Secure3Audit/Shield_SSVault_Audit_Contest/tree/main/audit_report)
 - :moneybag: Shield M-Vault [audit report](https://github.com/Secure3Audit/Shield_MVault_Audit_Contest/tree/main/audit_report)
+- :purple_circle: ChaChaSwap [audit report](https://github.com/Secure3Audit/ChaChaSwap_Audit_Contest/blob/main/audit_report/)
 - :art: TENGOKU [audit report](https://github.com/Secure3Audit/TENGOKU_Audit_Contest/tree/main/audit_report)
 - :pick: Lymex [audit report](https://github.com/Secure3Audit/Lymex_Audit_Contest/tree/main/audit_report)
 - :dart: Lymex Token [audit report](https://github.com/Secure3Audit/Lymex_Token_Audit_Contest/tree/main/audit_report)
