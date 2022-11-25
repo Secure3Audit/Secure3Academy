@@ -14,7 +14,7 @@
 - :art: TENGOKU [audit report](https://github.com/Secure3Audit/TENGOKU_Audit_Contest/tree/main/audit_report)
 - :pick: Lymex [audit report](https://github.com/Secure3Audit/Lymex_Audit_Contest/tree/main/audit_report)
 - :dart: Lymex Token [audit report](https://github.com/Secure3Audit/Lymex_Token_Audit_Contest/tree/main/audit_report)
-
+- :rocket: FTM NFT LaunchPad [audit report](https://github.com/Secure3Audit/FTM_NFT_Audit_Contest/tree/main/audit_report)
 - :mage_man: And **many more** to be published...
 
 ## Build
