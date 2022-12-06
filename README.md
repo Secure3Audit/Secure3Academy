@@ -15,6 +15,8 @@
 - :pick: Lymex [audit report](https://github.com/Secure3Audit/Lymex_Audit_Contest/tree/main/audit_report)
 - :dart: Lymex Token [audit report](https://github.com/Secure3Audit/Lymex_Token_Audit_Contest/tree/main/audit_report)
 - :rocket: FTM NFT LaunchPad (Move/Aptos) [audit report](https://github.com/Secure3Audit/FTM_NFT_Audit_Contest/tree/main/audit_report)
+- :lion: XCarnival UPenn CIS-7000 Educational [audit report](https://github.com/Secure3Audit/XCarnival_UPennCIS7000_Educational_Audit_Contest/tree/main/audit_report)
+
 - :mage_man: And **many more** to be published...
 
 ## Build
