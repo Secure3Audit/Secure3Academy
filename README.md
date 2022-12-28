@@ -20,6 +20,7 @@
 - :gorilla: ApeX [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/ApeX)
 - :cyclone: ParaSpace [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/ParaSpace)
 - :fast_forward: zkSync [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/zkSync)
+- :hear_no_evil: ParaSpace Ape Yield [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/ParaSpace%20Ape%20Yield)
 
 - :mage_man: And **many more** to be published...
 
