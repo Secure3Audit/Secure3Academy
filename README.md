@@ -24,6 +24,7 @@
 - :cyclone: ParaSpace P2P Pair Staking [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/ParaSpace%20P2P%20Pair%20Staking)
 - :green_book: Deviews [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Deviews)
 - :cyclone: ParaSpace V1.4 P1 [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/ParaSpace%20V1.4%20P1)
+- :cyclone: ParaSpace V1.4 P2 [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/ParaSpace%20V1.4%20P2)
 
 - :mage_man: And **many more** to be published...
 
