@@ -5,7 +5,7 @@
 - :bar_chart: [Secure3 Security Vulnerability Severity Definition](https://github.com/Secure3Audit/Secure3Academy/blob/main/IssueSeverityDefinition.md)
 
 ## Audit Contests
-| Project &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;                                    | Language | Project Type &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; | Project Link    | Report |
+| Project &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;                                    | Language | Project Description &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; | Project Link    | Report |
 |:----------------------------------------------|:-----------|:------------------|:------------------|:--------------|
 | :video_game: P12                            | Solidity | GameFi Platform | [twitter](https://twitter.com/_p12_) | [report](https://github.com/Secure3Audit/P12_Audit_Contest/tree/main/audit_report)                                          |
 | :moneybag: ClearDAO                         | Solidity | DAO             | [twitter](https://twitter.com/clear_dao) | [report](https://github.com/Secure3Audit/ClearDAO_Audit_Contest/tree/main/audit_report)                                     |
