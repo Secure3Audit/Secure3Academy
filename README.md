@@ -13,7 +13,7 @@
 | :moneybag: Shield SS-Vault                  | Solidity | DeFi             | [audit report](https://github.com/Secure3Audit/Shield_SSVault_Audit_Contest/tree/main/audit_report)                               |
 | :moneybag: Shield M-Vault                   | Solidity | DeFi             | [audit report](https://github.com/Secure3Audit/Shield_MVault_Audit_Contest/tree/main/audit_report)                                |
 | :purple_circle: ChaChaSwap                  | Solidity | NFT Marketplace & AMM    | [audit report](https://github.com/Secure3Audit/ChaChaSwap_Audit_Contest/blob/main/audit_report/)                                  |
-| :art: TENGOKU                               | Solidity | NFT             | [audit report](https://github.com/Secure3Audit/TENGOKU_Audit_Contest/tree/main/audit_report)                                      |
+| :art: TENGOKU                               | Solidity | GameFi Platform and NFT             | [audit report](https://github.com/Secure3Audit/TENGOKU_Audit_Contest/tree/main/audit_report)                                      |
 | :pick: Lymex                                | Solidity | DeFi            | [audit report](https://github.com/Secure3Audit/Lymex_Audit_Contest/tree/main/audit_report)                                        |
 | :dart: LYM Token                            | Solidity | Token           | [audit report](https://github.com/Secure3Audit/Lymex_Token_Audit_Contest/tree/main/audit_report)                                  |
 | :rocket: FTM NFT LaunchPad                  | Move Aptos | NFT Launchpad             | [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/FTM%20NFT)                                  |
