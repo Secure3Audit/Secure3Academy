@@ -26,8 +26,8 @@
 | :cyclone: ParaSpace V1.4 P1                 | Solidity | NFT Protocol    | [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/ParaSpace%20V1.4%20P1)                      |
 | :cyclone: ParaSpace V1.4 P2                 | Solidity | NFT Protocol    | [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/ParaSpace%20V1.4%20P2)                      |
 | :fast_forward: zkSync                       | Solidity | ZK Rollup       | [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/zkSync)                                     |
-| :green_book: Deviews                        | Solidity | Token           | [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Deviews)                                    |
-| :old_key: Hinkal                        | Solidity | ZK privacy protocol           | [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Hinkal)                                    |
+| :green_book: Deviews                        | Solidity | Review-to-Earn Platform           | [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Deviews)                                    |
+| :old_key: Hinkal                        | Solidity | ZK Privacy Protocol           | [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Hinkal)                                    |
 
 - :mage_man: And **many more** to be published...
 
