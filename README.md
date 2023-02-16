@@ -28,6 +28,7 @@
 | :fast_forward: zkSync                       | Solidity | ZK Rollup       | [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/zkSync)                                     |
 | :green_book: Deviews                        | Solidity | Review-to-Earn Platform           | [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Deviews)                                    |
 | :old_key: Hinkal                        | Solidity | ZK Privacy Protocol           | [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Hinkal)                                    |
+| :mirror: Mirror World                        | Go | MPC Wallet & TSS Protocol           | [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/MirrorWorldMPCWallet)                                    |
 
 - :mage_man: And **many more** to be published...
 
