@@ -16,7 +16,7 @@
 | :art: TENGOKU                               | Solidity | NFT             | [audit report](https://github.com/Secure3Audit/TENGOKU_Audit_Contest/tree/main/audit_report)                                      |
 | :pick: Lymex                                | Solidity | DeFi            | [audit report](https://github.com/Secure3Audit/Lymex_Audit_Contest/tree/main/audit_report)                                        |
 | :dart: LYM Token                            | Solidity | Token           | [audit report](https://github.com/Secure3Audit/Lymex_Token_Audit_Contest/tree/main/audit_report)                                  |
-| :rocket: FTM NFT LaunchPad                  | Move     | NFT Launchpad             | [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/FTM%20NFT)                                  |
+| :rocket: FTM NFT LaunchPad                  | Move Aptos | NFT Launchpad             | [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/FTM%20NFT)                                  |
 | :lion: XCarnival UPenn CIS-7000 Educational | Solidity | NFT             | [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/XCarnival%20UPenn%20CIS-7000%20Educational) |
 | :ocean: Pulsar                              | Solidity | DeFi TWAMM        | [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Pulsar)                                     |
 | :gorilla: ApeX                              | Solidity | DEX             | [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/ApeX)                                       |
