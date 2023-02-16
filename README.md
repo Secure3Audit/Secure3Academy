@@ -18,6 +18,7 @@
 | :dart: LYM Token                            | Solidity | Token           | [audit report](https://github.com/Secure3Audit/Lymex_Token_Audit_Contest/tree/main/audit_report)                                  |
 | :rocket: FTM NFT LaunchPad                  | Move Aptos | NFT Launchpad             | [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/FTM%20NFT)                                  |
 | :lion: XCarnival UPenn CIS-7000 Educational | Solidity | NFT             | [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/XCarnival%20UPenn%20CIS-7000%20Educational) |
+| :globe_with_meridians: dappOS               | Solidity | Operating Protocol         | [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/dappOS)                                     |
 | :ocean: Pulsar                              | Solidity | DeFi TWAMM        | [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Pulsar)                                     |
 | :gorilla: ApeX                              | Solidity | Derivatives DEX             | [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/ApeX)                                       |
 | :cyclone: ParaSpace                         | Solidity | NFT Lending Protocol    | [audit report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/ParaSpace)                                  |
