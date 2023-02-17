@@ -2,6 +2,7 @@
 
 format
 ```
+------
 ### Short Subject
 
 #### Suggestions
@@ -10,10 +11,12 @@ format
 
 #### Suggestions
 
+------
+
 ```
 
 ## Uniswap V2 (PancakeSwap, Sushi...)
-
+------
 ### Get price
 #### Descrption
 When building DeFi contracts that need token prices from onchain contract, it may bring security problems in subtle ways.
@@ -49,14 +52,16 @@ function getPriceV1(address pair) public view returns(uint256) {
 
 It's suggested to use average price instead of spot price. UniSwap provides [official Oracle](https://docs.uniswap.org/contracts/v2/concepts/core-concepts/oracles) for external contracts to get on-chain TWAPs. Check out its [example implementation](https://github.com/Uniswap/v2-periphery/blob/master/contracts/examples/ExampleOracleSimple.sol).
 
+------
 ### Pair tokens address order
 
 [token0](https://docs.uniswap.org/contracts/v2/reference/smart-contracts/pair#token0) and [token1](https://docs.uniswap.org/contracts/v2/reference/smart-contracts/pair#token1) represent the address of the token pair. When user input is used, it is worth checking that `token0` must be strictly less than `token1` by sort order.
-
+------
 ### Reasonable amountOutMin
 
 [amountOutMin](https://docs.uniswap.org/contracts/v2/reference/smart-contracts/router-02#swapexacttokensfortokens) is an important parameter that represents the minimum amount of output tokens that must be received for the transaction not to revert. It needs to set a reasonable `amountOutMin` when swapping tokens, otherwise there may be a loss of funds.
 
+------
 ## Chainlink VRF
 
 Check out [security considerations](https://docs.chain.link/vrf/v2/security)
