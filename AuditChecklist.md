@@ -3,7 +3,7 @@
 ## Uniswap V2 (PancakeSwap, Sushi...)
 
 ### Get price
-
+#### Descrption
 When building DeFi contracts that need token prices from onchain contract, it may bring security problems in subtle ways.
 
 The following functions are vulnerable.
@@ -11,6 +11,8 @@ The following functions are vulnerable.
 Function `getPriceV0` uses the result of `balanceOf` as the number of tokens in the pair. However, the attacker can [flash swap](https://docs.uniswap.org/contracts/v2/guides/smart-contract-integration/using-flash-swaps) and borrow tokens from uniswap pair to affect the `balanceOf` result in the same block.
 
 Function `getPriceV1` uses the result of `getReserves` as the number of tokens in the pair. However, the attacker can make a huge swap to affect token price before the attack.
+
+#### Sample Bad Code
 
 ```solidity
 /**
@@ -30,6 +32,8 @@ function getPriceV1(address pair) public view returns(uint256) {
     return 10**18 * uint256(reserve0) / uint256(reserve1);
 }
 ```
+#### Suggestions
+
 
 It's suggested to use average price instead of spot price. UniSwap provides [official Oracle](https://docs.uniswap.org/contracts/v2/concepts/core-concepts/oracles) for external contracts to get on-chain TWAPs. Check out its [example implementation](https://github.com/Uniswap/v2-periphery/blob/master/contracts/examples/ExampleOracleSimple.sol).
 
