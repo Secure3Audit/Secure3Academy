@@ -5,7 +5,7 @@ format
 ------
 ### Short Subject
 
-#### Suggestions
+#### Detail Description
 
 #### Sample Bad Code
 
