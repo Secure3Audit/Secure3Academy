@@ -31,7 +31,8 @@
  | :green_book: Deviews                        | Solidity   | Review-to-Earn Platform   | [twitter](https://twitter.com/Deviews_io)      | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Deviews)                                   
  | :old_key: Hinkal                            | Solidity   | ZK Privacy Protocol       | [twitter](https://twitter.com/hinkal_protocol) | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Hinkal)                                    
  | :mirror: Mirror World                       | Go         | MPC Wallet & TSS Protocol | [twitter](https://twitter.com/MirrorPlatform)  | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/MirrorWorldMPCWallet)                      
- | :butterfly: Capsid                          | Solidity   | NFT Trading Protocol      | [twitter](https://twitter.com/Capsid_One)      | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/CapsidNFRTrading)                                                
+ | :butterfly: Capsid                          | Solidity   | NFT Trading Protocol      | [twitter](https://twitter.com/Capsid_One)      | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/CapsidNFRTrading)  
+  | :robot:	 Desider                          | Solidity   | NFT Social Protocol      | [twitter](https://twitter.com/DesiderOfficial)      | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/DeciderNFT)  
 
 - :mage_man: And **many more** to be published...
 
