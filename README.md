@@ -1,4 +1,4 @@
-# Secure3 Academy Home Page
+# Secure3 Audit Academy Home Page
 
 ## Active Bug Bounty
 1. [Uniwhale](https://github.com/Secure3Audit/Secure3Academy/blob/main/bug_bounty/uniwhale.md) -> Maximum Reward of `500,000` UNW (i.e. `0.5%` of the total supply)
