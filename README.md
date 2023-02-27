@@ -37,6 +37,10 @@
 
 - :mage_man: And **many more** to be published...
 
+## Bug Bounty
+1. [Uniwhale Bounty](https://github.com/Secure3Audit/Secure3Academy/blob/main/bug_bounty/uniwhale.md)
+
+
 ## Build
 - :crystal_ball: wip
 
