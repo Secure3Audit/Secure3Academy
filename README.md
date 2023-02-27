@@ -1,8 +1,8 @@
 # Secure3 Academy Home Page
 
-## Learn
-- :man_student: [How to become an auditor](https://github.com/Secure3Audit/Secure3Academy/blob/main/HowToBecomeAnAuditor.md)
-- :bar_chart: [Secure3 Security Vulnerability Severity Definition](https://github.com/Secure3Audit/Secure3Academy/blob/main/IssueSeverityDefinition.md)
+## Active Bug Bounty
+1. [Uniwhale Bounty](https://github.com/Secure3Audit/Secure3Academy/blob/main/bug_bounty/uniwhale.md)
+
 
 ## Audit Contests
  | Project                                      | Language   | Project Description       | Project Link                                   | Report                                                                                                                     
@@ -37,10 +37,13 @@
 
 - :mage_man: And **many more** to be published...
 
-## Bug Bounty
-1. [Uniwhale Bounty](https://github.com/Secure3Audit/Secure3Academy/blob/main/bug_bounty/uniwhale.md)
+## Educational
+- :man_student: [How to become an auditor](https://github.com/Secure3Audit/Secure3Academy/blob/main/HowToBecomeAnAuditor.md)
+- :bar_chart: [Secure3 Security Vulnerability Severity Definition](https://github.com/Secure3Audit/Secure3Academy/blob/main/IssueSeverityDefinition.md)
 
 
-## Build
+
+
+## Tools
 - :crystal_ball: wip
 
