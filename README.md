@@ -1,7 +1,7 @@
 # Secure3 Audit Academy Home Page
 
 ## Active Bug Bounty
-1. [Uniwhale](https://github.com/Secure3Audit/Secure3Academy/blob/main/bug_bounty/uniwhale.md) -> Maximum Reward of `500,000` UNW (i.e. `0.5%` of the total supply)
+1. [UniWhale](https://github.com/Secure3Audit/Secure3Academy/blob/main/bug_bounty/uniwhale.md) -> Maximum Reward of `500,000` `UNW` token (i.e. `0.5%` of the total supply)
 
 
 ## Audit Contests
@@ -34,6 +34,7 @@
  | :mirror: Mirror World                       | Go         | MPC Wallet & TSS Protocol | [twitter](https://twitter.com/MirrorPlatform)  | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/MirrorWorldMPCWallet)                      
  | :butterfly: Capsid                          | Solidity   | NFT Trading Protocol      | [twitter](https://twitter.com/Capsid_One)      | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/CapsidNFRTrading)  
   | :robot:	 Desider                           | Solidity   | NFT Social Protocol       | [twitter](https://twitter.com/DesiderOfficial) | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/desider)  
+  | :whale:	 UniWhale                           | Solidity   | DeFi Perp DEX           | [twitter](https://twitter.com/UniwhaleEx) | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/UniWhale)    
 
 - :mage_man: And **many more** to be published...
 
