@@ -9,7 +9,7 @@
 - KYC Required for Reward: **Yes**
 - How to Submit a Bug:
     - Email: bug_bounty@secure3.io
-    - Include `Uniwhale Bug Bounty` in the email title
+    - Include `UniWhale Bug Bounty` in the email title
 
 ## Project Overview
 Uniwhale is an oracle-based decentralized on-chain perpetual trading exchange where
