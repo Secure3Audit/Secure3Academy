@@ -1,4 +1,4 @@
-# Uniwhale Bounty
+# UniWhale Bounty
 
 ## Bounty Guidelines
 - Active Since: Mar 1st, 2023
