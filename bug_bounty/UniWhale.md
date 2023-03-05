@@ -71,7 +71,7 @@ Uniwhale requires KYC to be done for all bug bounty hunters submitting a report 
 
 
 ## Asset In Scope
-- [ ] TODO: github link with description
+- https://github.com/uniwhale-io/uniwhale-v1-contracts
 
 
 ## Out of Scope & Rules
