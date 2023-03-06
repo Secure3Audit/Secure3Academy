@@ -34,7 +34,7 @@ This bug bounty program has fixed rewards in UNW. The USD amounts reflected are 
 
 Critical smart contract vulnerabilities are capped at `10%` of economic damage, primarily taking into consideration funds at risk, but also PR and branding aspects, at the discretion of the team. However, there is a minimum reward of UNW `5,000`. Additionally, the maximum reward is capped at `500,000` UNW (i.e. `0.5%` of the total supply), even if `10%` of the damage in USD equivalent is greater than the USD equivalent of `500,000` UNW.
 
-The following vulnerabilities **are not eligible** for a reward: [security audit report](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/UniWhale/)
+The following vulnerabilities **are not eligible** for a reward: [security audit report](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/UniWhale/) and all audit reports listed on https://www.uniwhale.co/
 
 
 Payouts are handled by the Uniwhale team directly and are denominated in UNW. Payouts are done in UNW.
