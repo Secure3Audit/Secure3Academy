@@ -61,7 +61,7 @@ Uniwhale requires KYC to be done for all bug bounty hunters submitting a report 
 1. Email Address
 1. Residential Address
 1. Nationality
-1. Stacks Wallet Address
+1. Wallet Address
 1. Identity Proof (Passport / Driver License / National ID)
 1. Address Proof (Utility Bill / Bank Statement)
 
