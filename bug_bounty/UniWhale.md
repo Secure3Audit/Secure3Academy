@@ -8,8 +8,9 @@
 - Maximum Reward Cap: `500,000` UNW (i.e. `0.5%` of the total supply)
 - KYC Required for Reward: **Yes**
 - How to Submit a Bug:
-    - Email: bug_bounty@secure3.io
+    - Email: bug_bounty@uniwhale.co
     - Include `UniWhale Bug Bounty` in the email title
+    - Explain the issue with details in texts, no video
 
 ## Project Overview
 Uniwhale is an oracle-based decentralized on-chain perpetual trading exchange where
