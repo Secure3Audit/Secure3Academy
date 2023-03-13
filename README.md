@@ -36,9 +36,10 @@
 | :butterfly: Capsid                   | Solidity   | NFT Trading Protocol      | [twitter](https://twitter.com/Capsid_One)      | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/CapsidNFRTrading)                           |
 | :robot:	 Desider               | Solidity   | NFT Social Protocol       | [twitter](https://twitter.com/DesiderOfficial) | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/desider)                                    |
 | :whale:	 UniWhale              | Solidity   | DeFi Perp DEX             | [twitter](https://twitter.com/UniwhaleEx)      | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/UniWhale)                                   |
+| :mage_man:	 DegenReborn              | Solidity   | OnChain Game with ChatGPT | [twitter](https://twitter.com/DegenReborn)      | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/DegenReborn)                                   |
  
 
-- :mage_man: And **many more** to be published...
+and **many more** to be published...
 
 ## Educational
 - :man_student: [How to become an auditor](https://github.com/Secure3Audit/Secure3Academy/blob/main/HowToBecomeAnAuditor.md)
