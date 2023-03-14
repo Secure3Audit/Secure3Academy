@@ -30,13 +30,14 @@
 | :cyclone: ParaSpace V1.4 P2          | Solidity   | NFT Lending Protocol      | [twitter](https://twitter.com/ParaSpace_NFT)   | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/ParaSpace%20V1.4%20P2)                      |
 | :rocket: Aki  Protocol               | Solidity   | Campaign Engine & DID     | [twitter](https://twitter.com/aki_protocol)    | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Aki)                                        |
 | :fast_forward: zkSync 2.0/Era        | Solidity   | ZK Rollup                 | [twitter](https://twitter.com/zksync)          | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/zkSync)                                     |
-| :green_book: Deviews                 | Solidity   | Review-to-Earn Platform   | [twitter](https://twitter.com/Deviews_io)      | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Deviews)                                    |
+| :bookmark: Deviews                 | Solidity   | Review-to-Earn Platform   | [twitter](https://twitter.com/Deviews_io)      | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Deviews)                                    |
 | :old_key: Hinkal                     | Solidity   | ZK Privacy Protocol       | [twitter](https://twitter.com/hinkal_protocol) | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Hinkal)                                     |
 | :mirror: Mirror World                | Go         | MPC Wallet & TSS Protocol | [twitter](https://twitter.com/MirrorPlatform)  | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/MirrorWorldMPCWallet)                       |
 | :butterfly: Capsid                   | Solidity   | NFT Trading Protocol      | [twitter](https://twitter.com/Capsid_One)      | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/CapsidNFRTrading)                           |
 | :robot:	 Desider               | Solidity   | NFT Social Protocol       | [twitter](https://twitter.com/DesiderOfficial) | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/desider)                                    |
 | :whale:	 UniWhale              | Solidity   | DeFi Perp DEX             | [twitter](https://twitter.com/UniwhaleEx)      | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/UniWhale)                                   |
 | :mage_man:	 DegenReborn              | Solidity   | OnChain Game with ChatGPT | [twitter](https://twitter.com/DegenReborn)      | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/DegenReborn)                                   |
+| :ledger:	 TokenTable              | Solidity   | Token Ownership Management | [twitter](https://twitter.com/ethsign)      | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/TokenTable)                                   |
  
 
 and **many more** to be published...
