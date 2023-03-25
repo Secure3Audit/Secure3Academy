@@ -39,7 +39,8 @@
 | :whale:	 UniWhale              | Solidity   | DeFi Perp DEX             | [twitter](https://twitter.com/UniwhaleEx)      | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/UniWhale)                                   |
 | :mage_man:	 DegenReborn              | Solidity   | OnChain Game with ChatGPT | [twitter](https://twitter.com/DegenReborn)      | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/DegenReborn)                                   |
 | :ledger:	 TokenTable              | Solidity   | Token Ownership Management | [twitter](https://twitter.com/ethsign)      | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/TokenTable)                                   |
-| :artificial_satellite::	 Nesten              | Solidity   | Decentralized Wireless Network | [twitter](https://twitter.com/NestenUS)      | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Nesten)                                   | 
+| :artificial_satellite:	 Nesten              | Solidity   | Decentralized Wireless Network | [twitter](https://twitter.com/NestenUS)      | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Nesten)                                   | 
+| :car:	 GoMutual              | Solidity   | Car Mutuality Protocol | [twitter](https://twitter.com/go_mutual)      | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/GoMutual)                                   | 
 
 and **many more** to be published...
 
