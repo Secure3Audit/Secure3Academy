@@ -4,21 +4,22 @@
 - Active Since: Apr 4th, 2023
 - Accept Threat Level: **Critical**, **High**, **Medium**
 - PoC required: **Yes**
-- Minimum Reward: `3,000` USD
-- Maximum Reward Cap: `200,000` USD
+- **Medium** Reward: `3,000` USD
+- **High** Reward: `10,000` USD
+- **Critical** Reward: `200,000` USD
 - KYC Required for Reward: No
 - Submit Bug -> [Submit](https://forms.gle/iCVyupRVtCbV61zG8)
 
 ## Project Overview
-Para Space is a decentralized protocol with a foundation of providing lending and borrowing services for various assets on the Ethereum blockchain. Users can lend their NFTs and ERC-20 tokens to earn income in the form of interest, as well as use their lended assets as collateral for borrowing assets. One of the main entry bars for retail users into the NFT market is the high price of NFT items, especially blue-chip NFTs, therefore, ParaSpace introduces its Marketplace, allowing users to access NFTs through leveraged buy and leveraged bid, using the purchased item as collateral for the outstanding loan.
+ParaSpace is a decentralized protocol with a foundation of providing lending and borrowing services for various assets on the Ethereum blockchain. Users can lend their NFTs and ERC-20 tokens to earn income in the form of interest, as well as use their lended assets as collateral for borrowing assets. One of the main entry bars for retail users into the NFT market is the high price of NFT items, especially blue-chip NFTs, therefore, ParaSpace introduces its Marketplace, allowing users to access NFTs through leveraged buy and leveraged bid, using the purchased item as collateral for the outstanding loan.
 
-The Para Space protocol aims to provide users access to cash and profits without selling their assets. Para Space uses a pool-based money market model whereby users supply their assets to a pool to earn interest and instantly borrow from the pool when collateralizing their asset.
+The ParaSpace protocol aims to provide users access to cash and profits without selling their assets. ParaSpace uses a pool-based money market model whereby users supply their assets to a pool to earn interest and instantly borrow from the pool when collateralizing their asset.
 
-For more information about Para Space, please visit https://para.space/.
+For more information about ParaSpace, please visit https://para.space/.
 
 ## Reward by Threat Level
 
-Rewards are distributed according to the impact of the vulnerability based on the [Secure3 Security Vulnerability Severity Definition](../IssueSeverityDefinition.md). This is a simplified 4-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported.
+Rewards are distributed according to the impact of the vulnerability based on the [Secure3 Security Vulnerability Severity Definition](../IssueSeverityDefinition.md). This is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported.
 
 All bug reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward. Explanations and statements are not accepted as PoC and code is required. In addition, all bug reports must come with a suggestion for a fix in order to be considered for a reward.
 
@@ -45,7 +46,7 @@ To be eligible for a reward under this Program, you must:
 - Submit only one vulnerability per submission unless you need to chain vulnerabilities to impact any vulnerabilities. If you want to add more information to a provided issue, create a new submission referencing the initial one.
 - Not submit a separate vulnerability caused by an underlying issue that is the same as an issue on which a reward has been paid under this Program. However, if a vulnerability is found that bypasses a previous fix that was deployed, it will still be considered within the scope of this program.
 
-Payouts are handled by the Para Space team directly and are denominated in USD. However, payouts are conducted in USDC. Future payouts may be done in our own protocol token, at the discretion of the team.
+Payouts are handled by the ParaSpace team directly and are denominated in USD. However, payouts are conducted in USDC. Future payouts may be done in our own protocol token, at the discretion of the team.
 
 ## Impacts in Scope
 
