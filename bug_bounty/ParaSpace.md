@@ -2,7 +2,7 @@
 
 ## Bounty Guideline
 - Active Since: Apr 4th, 2023
-- Accept Threat Level: **Critical**, **High**, **Medium**
+- Accept Threat Level: **Critical**, **Medium**
 - PoC required: **Yes**
 - Minimum Reward: `3,000` USD
 - Maximum Reward Cap: `200,000` USD
@@ -58,7 +58,7 @@ Critical:
 - Unintended alteration of what the NFT represents (e.g. token URI, payload, artistic content)
 - Protocol insolvency
 
-High: 
+Medium: 
 - Theft of unclaimed yield
 - Theft of unclaimed royalties
 - Permanent freezing of unclaimed yield
