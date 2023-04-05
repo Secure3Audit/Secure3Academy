@@ -19,7 +19,7 @@ For more information about ParaSpace, please visit https://para.space/.
 
 ## Reward by Threat Level
 
-Rewards are distributed according to the impact of the vulnerability based on the [Secure3 Security Vulnerability Severity Definition](../IssueSeverityDefinition.md). This is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported.
+Rewards are distributed according to the impact of the vulnerability based on the [Secure3 Bug Bounty Severity Definition](../BugBountyIssueSeverityDefinition.md). This is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported.
 
 All bug reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward. Explanations and statements are not accepted as PoC and code is required. In addition, all bug reports must come with a suggestion for a fix in order to be considered for a reward.
 
