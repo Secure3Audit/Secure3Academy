@@ -1,2 +1,3 @@
 ## Active Bug Bounty
 1. [UniWhale](./UniWhale.md) -> Maximum Reward of `500,000` `UNW` token (i.e. `0.5%` of the total supply)
+2. [ParaSpace](./ParaSpace.md) -> Maximum Reward of `200,000` USD
