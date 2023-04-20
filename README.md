@@ -50,6 +50,7 @@
 | :ledger:	 TokenTable            | Solidity   | Token Ownership Management     | [twitter](https://twitter.com/ethsign)         | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/TokenTable)                                 |
 | :artificial_satellite: Nesten        | Solidity   | Decentralized Wireless Network | [twitter](https://twitter.com/NestenUS)        | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Nesten)                                     |
 | :car:	 GoMutual                      | Solidity   | Car Mutuality Protocol         | [twitter](https://twitter.com/go_mutual)       | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/GoMutual)                                   |
+| :seedling:	 Tevaera                       | Solidity   | on-chain Gaming on zkSync         | [twitter](https://twitter.com/tevaera)       | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Tevaera)                                   |
 
 
 
