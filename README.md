@@ -52,6 +52,7 @@
 | :car:	 GoMutual                      | Solidity   | Car Mutuality Protocol         | [twitter](https://twitter.com/go_mutual)       | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/GoMutual)                                   |
 | :seedling:	 Tevaera                       | Solidity   | on-chain Gaming on zkSync         | [twitter](https://twitter.com/tevaera)       | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Tevaera)                                   |
 | :construction:	 WestCoast NFT                     | Solidity   | NFT Protocol         | [twitter](https://twitter.com/WestCoastNFT)       | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/WestCoastNFT)                                   |
+| :carrot:	 KaratDAO                         | Solidity   | Decentralized Data Network         | [twitter](https://twitter.com/KaratDAO)   | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/KaratDAO)                                   |
 
 
 
