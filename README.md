@@ -55,6 +55,7 @@
 | :carrot:	 KaratDAO                         | Solidity   | Decentralized Data Network         | [twitter](https://twitter.com/KaratDAO)   | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/KaratDAO)                                   |
 | :joystick:	 Gameland                         | Solidity   | Game and Social Network   | [twitter](https://twitter.com/HelloGameland)   | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Gameland)                                   |
 | :chart_with_upwards_trend:	 KiloEx                         | Solidity   | Perpetual DEX   | [twitter](https://twitter.com/KiloEx_perp)   | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/KiloEx)                                   |
+| :corn:				 SO3                         | Solidity   | Social Farming Game   | [twitter](https://twitter.com/0xSO3)   | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/SO3)                                   |
 
 
 
