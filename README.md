@@ -56,6 +56,7 @@
 | :joystick:	 Gameland                         | Solidity   | Game and Social Network   | [twitter](https://twitter.com/HelloGameland)   | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Gameland)                                   |
 | :chart_with_upwards_trend:	 KiloEx                         | Solidity   | Perpetual DEX   | [twitter](https://twitter.com/KiloEx_perp)   | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/KiloEx)                                   |
 | :corn:				 SO3                         | Solidity   | Social Farming Game   | [twitter](https://twitter.com/0xSO3)   | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/SO3)                                   |
+| :crystal_ball:				 ZKSpace                         | Solidity   | DeFi DEX   | [twitter](https://twitter.com/ZKSpaceOfficial)   | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/ZKSpace)                                   |
 
 
 
@@ -69,5 +70,5 @@ and **many more** to be published...
 
 
 ## Tools
-- :crystal_ball: wip
+- :hourglass_flowing_sand: wip
 
