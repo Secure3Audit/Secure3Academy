@@ -6,8 +6,6 @@
 
 
 ## Audit Contests
-
-
 | Project                              | Language   | Project Description            | Project Link                                   | Report                                                                                                                      |
 |--------------------------------------|------------|--------------------------------|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | :video_game: P12                     | Solidity   | GameFi Platform                | [twitter](https://twitter.com/_p12_)           | [report](https://github.com/Secure3Audit/P12_Audit_Contest/tree/main/audit_report)                                          |
@@ -50,13 +48,15 @@
 | :ledger:	 TokenTable            | Solidity   | Token Ownership Management     | [twitter](https://twitter.com/ethsign)         | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/TokenTable)                                 |
 | :artificial_satellite: Nesten        | Solidity   | Decentralized Wireless Network | [twitter](https://twitter.com/NestenUS)        | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Nesten)                                     |
 | :car:	 GoMutual                      | Solidity   | Car Mutuality Protocol         | [twitter](https://twitter.com/go_mutual)       | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/GoMutual)                                   |
-| :seedling:	 Tevaera                       | Solidity   | on-chain Gaming on zkSync         | [twitter](https://twitter.com/tevaera)       | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Tevaera)                                   |
-| :construction:	 WestCoast NFT                     | Solidity   | NFT Protocol         | [twitter](https://twitter.com/WestCoastNFT)       | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/WestCoastNFT)                                   |
-| :carrot:	 KaratDAO                         | Solidity   | Decentralized Data Network         | [twitter](https://twitter.com/KaratDAO)   | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/KaratDAO)                                   |
-| :joystick:	 Gameland                         | Solidity   | Game and Social Network   | [twitter](https://twitter.com/HelloGameland)   | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Gameland)                                   |
-| :chart_with_upwards_trend:	 KiloEx                         | Solidity   | Perpetual DEX   | [twitter](https://twitter.com/KiloEx_perp)   | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/KiloEx)                                   |
-| :corn:				 SO3                         | Solidity   | Social Farming Game   | [twitter](https://twitter.com/0xSO3)   | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/SO3)                                   |
-| :crystal_ball:				 ZKSpace                         | Solidity   | DeFi DEX   | [twitter](https://twitter.com/ZKSpaceOfficial)   | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/ZKSpace)                                   |
+| :seedling:	 Tevaera               | Solidity   | on-chain Gaming on zkSync      | [twitter](https://twitter.com/tevaera)         | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Tevaera)                                    |
+| :construction:  WestCoast NFT        | Solidity   | NFT Protocol                   | [twitter](https://twitter.com/WestCoastNFT)    | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/WestCoastNFT)                               |
+| :carrot:	 KaratDAO              | Solidity   | Decentralized Data Network     | [twitter](https://twitter.com/KaratDAO)        | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/KaratDAO)                                   |
+| :joystick:	 Gameland              | Solidity   | Game and Social Network        | [twitter](https://twitter.com/HelloGameland)   | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Gameland)                                   |
+| :chart_with_upwards_trend:  KiloEx   | Solidity   | Perpetual DEX                  | [twitter](https://twitter.com/KiloEx_perp)     | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/KiloEx)                                     |
+| :corn: SO3                           | Solidity   | Social Farming Game            | [twitter](https://twitter.com/0xSO3)           | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/SO3)                                        |
+| :crystal_ball:     ZKSpace           | Solidity   | DeFi DEX                       | [twitter](https://twitter.com/ZKSpaceOfficial) | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/ZKSpace)                                    |
+| :tropical_fish:    Manta SDK         | Rust       | ZK Layer 1                     | [twitter](https://twitter.com/mantanetwork)    |                                                                                                                             |
+| :balance_scale:      Quantemo        | Solidity   | DeFi DEX                       | [website](http://qemo.ai/)                     | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Quantemo)                                   |
 
 
 
