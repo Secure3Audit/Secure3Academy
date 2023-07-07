@@ -58,6 +58,9 @@
 | :tropical_fish:    Manta SDK         | Rust       | ZK Layer 1                     | [twitter](https://twitter.com/mantanetwork)    |                                                                                                                             |
 | :balance_scale:      Quantemo        | Solidity   | DeFi DEX                       | [website](http://qemo.ai/)                     | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Quantemo)                                   |
 | :national_park:	  Pinnako   | Solidity   | DeFi DEX                  | [twitter](https://twitter.com/PinnakoDex)     | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Pinnako)                                     |
+| :dart:    MuFex   | Solidity   | Token                 | [twitter]( https://twitter.com/mufex_Official)     | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Mufex)                                     |
+
+
 
 
 
