@@ -6,4 +6,4 @@
 
 ## Free Bug Bounty Listing on Secure3 Platform
 
-If you are interested in listing your bug bounty on Secure3 platform, please email us at: [bug_bounty@secure3.io](mailto: bug_bounty@secure3.io)
+If you are interested in listing your bug bounty on Secure3 platform, please email us at: [bug_bounty@secure3.io](mailto:bug_bounty@secure3.io)
