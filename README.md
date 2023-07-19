@@ -60,6 +60,7 @@
 | :ship:    Aark   | Solidity   | DEX                 | [twitter]( https://twitter.com/aark_digital)     | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Aark)                                     |
 | :whale2:  Dewhales	 | Solidity   | DAO                 | [twitter]( https://twitter.com/DewhalesCapital)     | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Dewhales)                                     |
 | :globe_with_meridians:  Mantle	 | Go, Solidity, TypeScript   | Optimistic Rollup                 | [twitter]( https://twitter.com/0xMantle)     | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Mantle)                                     |
+| :loudspeaker:  EchoDEX	 | Solidity   | DEX                 | [twitter]( https://twitter.com/Echo_DEX)            | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/EchoDEX)                                     |
 
 
 
