@@ -66,7 +66,7 @@
 | :globe_with_meridians:  Mantle	      | Go, Solidity, TypeScript   | Optimistic Rollup              | [twitter]( https://twitter.com/0xMantle)     | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Mantle)                                     |
 | :loudspeaker:  EchoDEX	              | Solidity   | DEX                            | [twitter]( https://twitter.com/Echo_DEX)            | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/EchoDEX)                                    |
 | :car:  Gambit	                       | Solidity   | DEX on zkSync Era              | [twitter]( https://twitter.com/Gambit_Trade)            | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Gambit)                                     |
-
+| :video_game:  IoTex-IIP14	                       | Solidity   | Web3 Platform              | [twitter](https://twitter.com/iotex_io)            | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/IoTex-IIP14)                                     |
 
 
 
