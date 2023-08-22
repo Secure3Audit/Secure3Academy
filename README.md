@@ -68,7 +68,7 @@
 | :car:  Gambit	                       | Solidity   | DEX on zkSync Era              | [twitter]( https://twitter.com/Gambit_Trade)            | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Gambit)                                     |
 | :video_game:  IoTex-IIP14	                       | Solidity   | Web3 Platform              | [twitter](https://twitter.com/iotex_io)            | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/IoTex-IIP14)                                     |
 |  :cyclone:  StakeStone	                       | Solidity   | Staking Protocol              | [twitter](https://twitter.com/Stake_stone)            | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/StakeStone)                                     |
-
+| :ledger:	 HibikiRun                 | Solidity   | Token                          | [twitter](https://twitter.com/ethsign)         | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/hibikirun)     
 
 
 
