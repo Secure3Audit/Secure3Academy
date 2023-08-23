@@ -69,7 +69,7 @@
 | :video_game:  IoTex-IIP14	                       | Solidity   | Web3 Platform              | [twitter](https://twitter.com/iotex_io)            | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/IoTex-IIP14)                                     |
 |  :cyclone:  StakeStone	                       | Solidity   | Staking Protocol              | [twitter](https://twitter.com/Stake_stone)            | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/StakeStone)                                     |
 | :ledger:	 HibikiRun                 | Solidity   | Token                          | [twitter](https://twitter.com/hibikirunteam?s=21)         | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/HibikiRun)     
-
+| :robot:	 DeShilling                | Solidity   | DeFi DEX                       | [website](https://www.deshilling.com)             | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/DeShilling)                               |
 
 
 and **many more** to be published...
