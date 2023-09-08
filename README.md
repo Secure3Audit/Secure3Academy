@@ -74,6 +74,7 @@
 | :ledger:	 HibikiRun                 | Solidity   | Token                          | [twitter](https://twitter.com/hibikirunteam?s=21)         | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/HibikiRun)     
 | :robot:	 DeShilling                | Solidity   | DeFi DEX                       | [website](https://www.deshilling.com)             | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/DeShilling)                               |
 | :construction:	 Fun.xyz                | Solidity   | Virtual Wallet                       | [twitter](https://twitter.com/fun)             | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Fun.xyz)                               |
+| :carrot:	 TevaEra-NFT-Marketplace               | Solidity   | Marketplace                       | [twitter](https://twitter.com/tevaera)             | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/TevaEra-NFT-Marketplace)                               |
 
 and **many more** to be published...
 
