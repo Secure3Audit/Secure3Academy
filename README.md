@@ -76,6 +76,9 @@
 | :construction:	 Fun.xyz                | Solidity   | Virtual Wallet                       | [twitter](https://twitter.com/fun)             | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Fun.xyz)                               |
 | :carrot:	 TevaEra-NFT-Marketplace               | Solidity   | Marketplace                       | [twitter](https://twitter.com/tevaera)             | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/TevaEra-NFT-Marketplace)                               |
 | :balance_scale:	 Holonym-P1               | Solidity   | ZK Rollup                      | [twitter](https://twitter.com/0xHolonym)             | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Holonym)                               |
+| :dollar:	 Savvy               | Solidity   | Lending                      | [twitter](https://twitter.com/SavvyDeFi)             | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Savvy)                               |
+
+
 and **many more** to be published...
 
 ## Educational
