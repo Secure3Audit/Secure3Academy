@@ -79,6 +79,7 @@
 | :dollar:	 Savvy               | Solidity   | Lending                      | [twitter](https://twitter.com/SavvyDeFi)             | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Savvy)                               |
 
 
+
 and **many more** to be published...
 
 ## Educational
