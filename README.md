@@ -78,7 +78,7 @@
 | :balance_scale:	 Holonym-P1               | Solidity   | ZK Rollup                      | [twitter](https://twitter.com/0xHolonym)             | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Holonym)                               |
 | :dollar:	 Savvy               | Solidity   | Lending                      | [twitter](https://twitter.com/SavvyDeFi)             | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Savvy)                               |
 | :crystal_ball:	  Gambit-Wemix               | Solidity   | DEX on Wemix         | [twitter](https://twitter.com/Gambit_Trade)             | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Gambit )                               |
-| :robot:	  Taker Protocol              | Solidity   | NFT lending protocol        | [twitter](https://twitter.com/TakerProtocol)           | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Taker%20Protocol  )                               |
+| :robot:	  Taker Protocol              | Solidity   | NFT lending protocol        | [twitter](https://twitter.com/TakerProtocol)           | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/TakerProtocol  )                               |
 
 and **many more** to be published...
 
