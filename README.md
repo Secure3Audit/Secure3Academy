@@ -77,8 +77,8 @@
 | :carrot:	 TevaEra-NFT-Marketplace               | Solidity   | Marketplace                       | [twitter](https://twitter.com/tevaera)             | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/TevaEra-NFT-Marketplace)                               |
 | :balance_scale:	 Holonym-P1               | Solidity   | ZK Rollup                      | [twitter](https://twitter.com/0xHolonym)             | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Holonym)                               |
 | :dollar:	 Savvy               | Solidity   | Lending                      | [twitter](https://twitter.com/SavvyDeFi)             | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Savvy)                               |
-
-
+| :crystal_ball:	  Gambit-Wemix               | Solidity   | DEX on Wemix         | [twitter](ttps://twitter.com/Gambit_Trade)             | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Gambit )                               |
+| :robot:	  Taker Protocol              | Solidity   | NFT lending protocol        | [twitter](https://twitter.com/TakerProtocol)           | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Taker%20Protocol  )                               |
 
 and **many more** to be published...
 
