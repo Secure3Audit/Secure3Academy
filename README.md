@@ -79,6 +79,7 @@
 | :dollar:	 Savvy               | Solidity   | Lending                      | [twitter](https://twitter.com/SavvyDeFi)             | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Savvy)                               |
 | :crystal_ball:	  Gambit-Wemix               | Solidity   | DEX on Wemix         | [twitter](https://twitter.com/Gambit_Trade)             | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Gambit-Wemix)                               |
 | :robot:	  Taker Protocol              | Solidity   | NFT lending protocol        | [twitter](https://twitter.com/TakerProtocol)           | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/TakerProtocol  )                               |
+| :fast_forward:	  Nativ3 Network              | Solidity   |Bridge        | [twitter](https://twitter.com/Nativ3Network)           | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Nativ3Network)                               |
 
 and **many more** to be published...
 
