@@ -81,6 +81,7 @@
 | :robot:	  Taker Protocol              | Solidity   | NFT lending protocol        | [twitter](https://twitter.com/TakerProtocol)           | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/TakerProtocol  )                               |
 | :fast_forward:	  Nativ3 Network              | Solidity   |Bridge        | [twitter](https://twitter.com/Nativ3Network)           | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Nativ3Network)                               |
 | :seedling:	  Lynex             | Solidity   |DEX        | [twitter](https://twitter.com/LynexFi)           | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Lynex)                               |
+| :car:  Gambit-P3	                       | Solidity   | DEX on zkSync Era              | [twitter]( https://twitter.com/Gambit_Trade)            | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Gambit-P3)                                     |
 and **many more** to be published...
 
 ## Educational
