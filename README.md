@@ -84,6 +84,7 @@
 | :car:  Gambit-P3	                       | Solidity   | DEX on zkSync Era              | [twitter]( https://twitter.com/Gambit_Trade)            | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Gambit-P3)                                     |
 | :video_game: M3tering                     | Solidity   | Token incentivized protocol                | [twitter](https://twitter.com/m3tering)           | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/M3tering)                                          |
 | :globe_with_meridians: dappOS-Stader     | Solidity   | Operating Protocol             | [twitter](https://twitter.com/dappOS_com)      | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/dappOS-Stader)                                     |
+| :carrot: KaratStaking                    | Solidity   |      Decentralized Data Network     | [twitter](https://twitter.com/KaratDAO)        | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/KaratStaking)  
 and **many more** to be published...
 
 ## Educational
