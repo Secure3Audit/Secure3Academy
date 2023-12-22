@@ -88,8 +88,8 @@
 |  :fast_forward: Lumoz                    | Solidity & Go  |      ZK-RaaS Network     | [twitter](https://twitter.com/ZKFCommunity)        | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Lumoz)  
 | :rocket: Aki V3               | Solidity   | Campaign Engine & DID          | [twitter](https://twitter.com/aki_protocol)    | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Aki_V3)   
 | :robot: xPET              | Solidity   |  SocialFi           | [twitter](https://twitter.com/xpet_tech)    | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/xPET)   
-| :robot: Apebond              | Solidity   |  DeFi DEX           | [twitter](https://twitter.com/ApeBond)    | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Apebond)   
-
+| :crystal_ball: Apebond              | Solidity   |  DeFi DEX           | [twitter](https://twitter.com/ApeBond)    | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Apebond)   
+| :joystick: Game7Hyperplay              | Solidity   |  Game incubation platform           | [twitter](https://twitter.com/G7_DAO)    | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Game7Hyperplay)   
 
 and **many more** to be published...
 
