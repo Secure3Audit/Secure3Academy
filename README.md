@@ -86,6 +86,7 @@
 | :globe_with_meridians: dappOS-Stader     | Solidity   | Operating Protocol             | [twitter](https://twitter.com/dappOS_com)      | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/dappOS-Stader)                                     |
 | :carrot: KaratStaking                    | Solidity   |      Decentralized Data Network     | [twitter](https://twitter.com/KaratDAO)        | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/KaratStaking)  
 |  :fast_forward: Lumoz                    | Solidity & Go  |      ZK-RaaS Network     | [twitter](https://twitter.com/ZKFCommunity)        | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Lumoz)  
+| :rocket: Aki V3               | Solidity   | Campaign Engine & DID          | [twitter](https://twitter.com/aki_protocol)    | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Aki_V3)   
 
 and **many more** to be published...
 
