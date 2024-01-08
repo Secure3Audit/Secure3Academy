@@ -90,6 +90,7 @@
 | :robot: xPET              | Solidity   |  SocialFi           | [twitter](https://twitter.com/xpet_tech)    | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/xPET)   
 | :crystal_ball: Apebond              | Solidity   |  DeFi DEX           | [twitter](https://twitter.com/ApeBond)    | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Apebond)   
 | :joystick: Game7Hyperplay              | Solidity   |  Game incubation platform           | [twitter](https://twitter.com/G7_DAO)    | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Game7Hyperplay)   
+| :dart:    PeanutV4                      | Solidity   | Token                          | [twitter](https://twitter.com/peanutprotocol)     | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/PeanutV4) 
 
 and **many more** to be published...
 
