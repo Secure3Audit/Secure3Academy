@@ -91,9 +91,9 @@
 | :crystal_ball: Apebond              | Solidity   |  DeFi DEX           | [twitter](https://twitter.com/ApeBond)    | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Apebond)   
 | :joystick: Game7Hyperplay              | Solidity   |  Game incubation platform           | [twitter](https://twitter.com/G7_DAO)    | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Game7Hyperplay)   
 | :dart:    PeanutV4                      | Solidity   | Token                          | [twitter](https://twitter.com/peanutprotocol)     | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/PeanutV4) 
-| :video_game:  Magpie_ArbStreaming                       | Solidity   | Marketplace              | [twitter](https://twitter.com/magpiexyz_io)            | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Magpie_ArbStreaming) 
-| :video_game:  MagpieLaunchpad	                       | Solidity   | Marketplace              | [twitter](https://twitter.com/magpiexyz_io)            | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/MagpieLaunchpad) 
-| :video_game:  MagpieBurn	                       | Solidity   | Marketplace              | [twitter](https://twitter.com/magpiexyz_io)            | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/MagpieBurn) 
+| :moneybag:  Magpie_ArbStreaming                       | Solidity   | Marketplace              | [twitter](https://twitter.com/magpiexyz_io)            | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Magpie_ArbStreaming) 
+| :moneybag:  MagpieLaunchpad	                       | Solidity   | Marketplace              | [twitter](https://twitter.com/magpiexyz_io)            | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/MagpieLaunchpad) 
+| :moneybag:  MagpieBurn	                       | Solidity   | Marketplace              | [twitter](https://twitter.com/magpiexyz_io)            | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/MagpieBurn) 
 
 and **many more** to be published...
 
