@@ -94,7 +94,7 @@
 | :moneybag:  Magpie_ArbStreaming                       | Solidity   | Marketplace              | [twitter](https://twitter.com/magpiexyz_io)            | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Magpie_ArbStreaming) 
 | :moneybag:  MagpieLaunchpad	                       | Solidity   | Marketplace              | [twitter](https://twitter.com/magpiexyz_io)            | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/MagpieLaunchpad) 
 | :moneybag:  MagpieBurn	                       | Solidity   | Marketplace              | [twitter](https://twitter.com/magpiexyz_io)            | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/MagpieBurn) 
-
+| :moneybag: Tonka_Finance_Staking_Yield                  | Solidity   | Staking                            | [twitter](https://twitter.com/TonkaFinance)       | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Tonka_Finance_Staking_Yield) 
 and **many more** to be published...
 
 ## Educational
