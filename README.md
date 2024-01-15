@@ -95,6 +95,9 @@
 | :moneybag:  MagpieLaunchpad	                       | Solidity   | Marketplace              | [twitter](https://twitter.com/magpiexyz_io)            | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/MagpieLaunchpad) 
 | :moneybag:  MagpieBurn	                       | Solidity   | Marketplace              | [twitter](https://twitter.com/magpiexyz_io)            | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/MagpieBurn) 
 | :moneybag: Tonka_Finance_Staking_Yield                  | Solidity   | Staking                            | [twitter](https://twitter.com/TonkaFinance)       | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Tonka_Finance_Staking_Yield) 
+| :car:  Ender_Fund_Deposition	                       | Solidity   | Staking              | [twitter](https://twitter.com/EnderProtocol)            | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Ender_Fund_Deposition) 
+| :car:  Ender_Deposit_Diff                       | Solidity   | Staking              | [twitter](https://twitter.com/EnderProtocol)            | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Ender_Deposit_Diff) 
+| :moneybag:  Magpie_CCIP	                       | Solidity   | Bridge              | [twitter](https://twitter.com/magpiexyz_io)            | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Magpie_CCIP) 
 and **many more** to be published...
 
 ## Educational
