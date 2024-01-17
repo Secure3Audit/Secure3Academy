@@ -98,6 +98,7 @@
 | :car:  Ender_Fund_Deposition	                 | Solidity                   | Staking                        | [twitter](https://twitter.com/EnderProtocol)       | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Ender_Fund_Deposition)                      | [contest](https://secure3.io/contest/bbf6b3a1) |
 | :car:  Ender_Deposit_Diff                      | Solidity                   | Staking                        | [twitter](https://twitter.com/EnderProtocol)       | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Ender_Deposit_Diff)                         | [contest](https://secure3.io/contest/5ac7c78c) |
 | :moneybag:  Magpie_CCIP	                     | Solidity                   | Bridge                         | [twitter](https://twitter.com/magpiexyz_io)        | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Magpie_CCIP)                                | [contest](https://secure3.io/contest/faa62bcd) |
+|  :tent:  MagmaStablecoin	                    | Solidity                   | Lending                        | [twitter](https://twitter.com/MagmaProtocol)        | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/MagmaStablecoin)                                |                                            |
 
 and **many more** to be published...
 
