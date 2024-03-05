@@ -101,7 +101,7 @@
 |  :tent:  MagmaStablecoin	                    | Solidity                   | Lending                        | [twitter](https://twitter.com/MagmaProtocol)        | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/MagmaStablecoin)                            | [contest](https://secure3.io/contest/d59c7871) |
 | :moneybag: Tonka_Finance_Lending         | Solidity                   | Lending                        | [twitter](https://twitter.com/TonkaFinance)        | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Tonka_Finance_Lending)                | [contest](https://secure3.io/contest/45cc59885f) |
 | :moneybag: Tonka_Finance_AMM         | Solidity                   | DEX & Trading                        | [twitter](https://twitter.com/TonkaFinance)        | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Tonka_Finance_AMM)                | [contest](https://secure3.io/contest/e04d0ee291) |
-| :globe_with_meridians:  Mantle V2             | Solidity, Go, TypeScript   | Rollup & Modular               | [twitter]( https://twitter.com/0xMantle)           | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Mantle V2)                                     | [contest](https://secure3.io/contest/e2ad89ff9b) |
+| :globe_with_meridians:  Mantle V2             | Solidity, Go, TypeScript   | Rollup & Modular               | [twitter]( https://twitter.com/0xMantle)           | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Mantle%20V2)                                     | [contest](https://secure3.io/contest/e2ad89ff9b) |
 and **many more** to be published...
 
 ## Educational
