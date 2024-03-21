@@ -103,7 +103,8 @@
 | :moneybag: Tonka_Finance_AMM         | Solidity                   | DEX & Trading                        | [twitter](https://twitter.com/TonkaFinance)        | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Tonka_Finance_AMM)                | [contest](https://secure3.io/contest/e04d0ee291) |
 | :globe_with_meridians:  Mantle V2             | Solidity, Go, TypeScript   | Rollup & Modular               | [twitter]( https://twitter.com/0xMantle)           | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Mantle_V2)                                     | [contest](https://secure3.io/contest/e2ad89ff9b) |
 | :globe_with_meridians:  zklink Nova             | Solidity, Go | Rollup & Modular               | [twitter]( https://twitter.com/zkLinkNova)           | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/zklink_L3)                                     | [contest](https://secure3.io/contest/b5b5aa9778) |
-
+| Mitosis             | Solidity | Bridge               | [twitter](https://twitter.com/MitosisOrg)           | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Mitosis)                                     | [contest](https://app.secure3.io/e377f59b8e) |
+| Mobox LBP             | Solidity | Staking               | [twitter](https://twitter.com/MOBOX_Official)           | [report](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/MoboxLBP)                                     | [contest](https://app.secure3.io/e62765a19b) |
 and **many more** to be published...
 
 ## Educational
