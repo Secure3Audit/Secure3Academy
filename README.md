@@ -8,7 +8,6 @@ See all audit contest at: https://app.secure3.io
 
 ## Educational
 - :man_student: [How to become an auditor](https://github.com/Secure3Audit/Secure3Academy/blob/main/HowToBecomeAnAuditor.md)
-- :bar_chart: [Secure3 Security Vulnerability Severity Definition](https://github.com/Secure3Audit/Secure3Academy/blob/main/IssueSeverityDefinition.md)
 
 
 ## Tools
